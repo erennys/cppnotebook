@@ -1,0 +1,12 @@
+bir kere yazmam gereken kodlar
+
+git init 
+git remote add origin https://github.com/erennys/cpp-notebook
+
+
+dosyayı her kaydetmem gerektıgınde yazmam gerekenler 
+
+git add .
+git commit -m "ilk"
+git branch -M main
+git push -u origin main
