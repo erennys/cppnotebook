@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 bir kere yazmam gereken kodlar
 
 git init 
@@ -9,4 +10,17 @@ dosyayı her kaydetmem gerektıgınde yazmam gerekenler
 git add .
 git commit -m "ilk"
 git branch -M main
+=======
+bir kere yazmam gereken kodlar
+
+git init 
+git remote add origin https://github.com/erennys/cpp-notebook
+
+
+dosyayı her kaydetmem gerektıgınde yazmam gerekenler 
+
+git add .
+git commit -m "ilk"
+git branch -M main
+>>>>>>> 83450c6ad4d85eb9cbb26d1affb8b7511a5db90a
 git push -u origin main
