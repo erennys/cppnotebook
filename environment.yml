@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+name: cling_env
+channels:
+  - conda-forge
+dependencies:
+  - xeus-cling
+  - notebook
+=======
+name: cling_env
+channels:
+  - conda-forge
+dependencies:
+  - xeus-cling
+  - notebook
+>>>>>>> fa6e27bb3518017a7d8a844ff9be501074ec7e57

@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+=======
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+>>>>>>> fa6e27bb3518017a7d8a844ff9be501074ec7e57
